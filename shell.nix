@@ -10,6 +10,13 @@ pkgs.mkShell {
       matplotlib
       jupyterlab
       ipykernel
+      ipywidgets
+      bitstring
+      folium
+      seaborn
+      plotly
+      dash
+      folium
     ]))
   ];
 

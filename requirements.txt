@@ -1,0 +1,8 @@
+pandas
+plotly
+dash
+dash-bootstrap-components
+folium
+branca
+numpy
+webbrowser
